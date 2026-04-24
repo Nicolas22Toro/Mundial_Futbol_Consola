@@ -15,8 +15,13 @@ Aplicación en Java para simular y gestionar un torneo mundial de fútbol direct
 - Visual Studio Code 
 - Excel (en el que pusimos lo de las banderas y la tabla de posiciones)
 - Matrices para representación gráfica de banderas
+- Canva
 
-## 👥 Grupo
+##  Grupo
 
 - Andreina Garro Rodriguez
-- Nicolas Gonzales Toro 
+- Nicolas Gonzales Toro
+
+## Diapositiva 
+
+https://canva.link/hjl6dmkl6zaqsti 
