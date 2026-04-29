@@ -21,6 +21,7 @@ Aplicación en Java para simular y gestionar un torneo mundial de fútbol direct
 
 - Andreina Garro Rodriguez
 - Nicolas Gonzales Toro
+- Juan José Alzate 
 
 ## Diapositiva 
 
