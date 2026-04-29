@@ -109,50 +109,55 @@ public class Mundial2026 {
             {"(Edimburgo) A.Gunn/A.Robertson/G.Hanley/K.Tierney/A.Ralston/McTominay/J.McGinn/B.Gilmour/R.Christie/C.Adams/L.Shankland","9"},
             {"(Puerto Príncipe) J.Placide/C.Arcus/K.Thermoncy/H.Delcroix/R.Ade/J.Bellegarde/D.Jean Jacques/L.Pierre/D.Etienne Jr/D.Nazon/F.Pierrot","2"},
             // D: EEUU, Australia, Paraguay, Turquia
-            {"Washington D.C.","C.Pulisic/W.McKennie/T.Adams","11"},
-            {"Canberra","M.Leckie/A.Hrustic/M.Goodwin","6"},
-            {"Asuncion","M.Almiron/D.Sanabria/A.Romero","9"},
-            {"Ankara","H.Calhanoglu/B.Yilmaz/S.Guler","5"},
+            {"(Washington D.C.) M.Turner/S.Dest/M.Robinson/T.Ream/A.Robinson/McKennie/T.Adams/Y.Musah/C.Pulisic/R.Pepi/F.Balogun","11"},
+            {"(Canberra) M.Ryan/M.Degenek/C.Burgess/K.Rowles/L.Miller/J.Irvine/R.McGree/C.Metcalfe/C.Goodwin/M.Boyle/N.Irankunda","6"},
+            {"(Asunción) A.Silva/G.Gomez/O.Alderete/F.Balbuena/S.Arzamendia/M.Almiron/M.Villasanti/A.Cubas/A.Cardozo/A.Romero/A.Sanabria","9"},
+            {"(Ankara) U.Cakir/M.Demiral/S.Akaydin/F.Kadioglu/Z.Celik/H.Calhanoglu/K.Ayhan/S.Ozcan/A.Güler/K.Akturkoglu/B.Yilmaz","5"},
             // E: Alemania, Ecuador, Costa de Marfil, Curazao
-            {"Berlin","T.Muller/J.Kimmich/K.Havertz","20"},
-            {"Quito","E.Valencia/M.Caicedo/A.Plata","4"},
-            {"Yamoussoukro","N.Pepe/S.Aurier/W.Zaha","3"},
-            {"Willemstad","T.Arians/L.Faner/G.Sendt","1"},
+            {"(Berlín) O.Baumann/J.Tah/N.Schlotterbeck/D.Raum/W.Anton/J.Kimmich/L.Goretzka/F.Wirtz/L.Sane/N.Woltemade/J.Burkardt","20"},
+            {"(Quito) H.Galindez/P.Hincapie/F.Torres/W.Pacho/A.Preciado/M.Caicedo/A.Franco/K.Paez/G.Plata/K.Rodriguez/L.Campana","4"},
+            {"(Yamusukro) Y.Fofana/O.Kossounou/O.Diomande/E.Ndicka/G.Konan/F.Kessie/S.Fofana/I.Sangare/A.Diallo/S.Haller/E.Guessand","3"},
+            {"(Willemstad) E.Room/A.Obispo/S.Sambo/J.Brenet/S.Floranus/L.Bacuna/J.Bacuna/T.Chong/L.Comenencia/S.Hansen/K.Gorre","1"},
             // F: Paises Bajos, Japon, Tunez, Suecia
-            {"Amsterdam","V.Dijk/M.Depay/D.Dumfries","11"},
-            {"Tokio","S.Minamino/W.Endo/H.Ito","7"},
-            {"Tunez","Y.Msakni/A.Laidouni/M.Drager","6"},
-            {"Estocolmo","V.Ibrahimovic/A.Isak/D.Kulusevski","12"},
+            {"(Ámsterdam) M.Flekken/V.van Dijk/N.Ake/M.de Ligt/D.Dumfries/F.de Jong/T.Reijnders/T.Koopmeiners/C.Gakpo/M.Depay/W.Weghorst","11"},
+            {"(Tokio) T.Hayakawa/K.Itakura/S.Taniguchi/Y.Sugawara/T.Watanabe/R.Doan/K.Mitoma/J.Ito/H.Morita/A.Ueda/D.Kamada","7"},
+            {"(Túnez) A.Dahmen/M.Talbi/D.Bronn/M.Draeger/A.Maaloul/E.Skhiri/A.Ben Slimane/A.Laidouni/Y.Msakni/S.Jaziri/H.Rafia","6"},
+            {"(Estocolmo) R.Olsen/L.Augustinsson/I.Hien/V.Lindelof/E.Krafth/A.Ekdal/V.Claesson/D.Kulusevski/J.Karlsson/A.Isak/Z.Ibrahimovic","12"},
             // G: Belgica, Iran, Egipto, Nueva Zelanda
-            {"Bruselas","K.De Bruyne/R.Lukaku/T.Hazard","14"},
-            {"Tehran","M.Taremi/S.Azmoun/A.Jahanbakhsh","6"},
-            {"El Cairo","M.Salah/A.El-Fotouh/T.Hamdi","3"},
-            {"Wellington","C.Wood/W.McGarry/N.Eliot","3"},
+            {"(Bruselas) M.Sels/A.Theate/B.Mechele/T.Castagne/M.De Cuyper/Y.Tielemans/A.Witsel/H.Vanaken/J.Doku/L.Openda/C.De Ketelaere","14"},
+            {"(Teherán) A.Beiranvand/M.Hosseini/S.Khalilzadeh/M.Mohammadi/H.Kanaanizadegan/S.Ezatolahi/S.Ghoddos/A.Jahanbakhsh/A.Gholizadeh/M.Taremi/S.Azmoun","6"},
+            {"(El Cairo) M.Awad/El-Wensh/K.Fouad/A.Hany/Y.Zakaria/M.Elneny/Afsha/M.Saad/A.Tawfik/M.Salah/M.Sherif","3"},
+            {"(Wellington) O.Sail/W.Reid/M.Boxall/C.Howieson/L.Cacace/B.Tuiloma/S.Marinovic/R.Thomas/A.Greive/C.Wood/C.Elliot","3"},
+
             // H: Espana, Uruguay, Cabo Verde, Arabia Saudita
-            {"Madrid","Unai Simón; Carvajal, Le Normand, Laporte, Cucurella; Rodri, Fabián Ruiz, Pedri; Lamine Yamal, Nico Williams y Morata","16"},
-            {"Montevideo","L.Suarez/F.Valverde/D.Nunez","14"},
-            {"Praia","R.Tavares/Z.Varela/J.Semedo","1"},
-            {"Riad","S.Al-Dawsari/H.Al-Shahrani/M.Al-Buraikan","7"},
+            {"(Madrid) D.Raya/D.Carvajal/A.Laporte/R.Le Normand/A.Grimaldo/Rodri/Pedri/Gavi/N.Williams/A.Morata/M.Oyarzabal","16"},
+            {"(Montevideo) S.Rochet/D.Godin/R.Araujo/M.Olivera/M.Caceres/F.Valverde/R.Bentancur/M.Ugarte/F.Pellistri/D.Nunez/L.Suarez","14"},
+            {"(Praia) Vozinha/Stopira/R.Santos/W.Pina/K.Pires/J.Monteiro/K.Pina/L.Duarte/D.Duarte/G.Rodrigues/N.da Costa","1"},
+            {"(Riad) N.Al-Aqidi/H.Al-Tambakti/A.Majrashi/A.Al-Amri/N.Boushal/M.Kanno/S.Al-Dawsari/N.Al-Dawsari/A.Al-Khaibari/F.Al-Buraikan/S.Al-Shehri","7"},
+
             // I: Francia, Senegal, Noruega, Irak
-            {"Paris","Maignan; Koundé, Saliba, Upamecano, Theo Hernández; Tchouaméni, Camavinga, Griezmann; Dembélé, Mbappé y Barcola","16"},
-            {"Dakar","S.Mane/E.Mendy/I.Gueye","4"},
-            {"Oslo","E.Haaland/M.Odegaard/A.Sorloth","4"},
-            {"Bagdad","A.Karrar/A.Jabbar/M.Abboud","4"},
+            {"(París) M.Maignan/W.Saliba/D.Upamecano/I.Konate/T.Hernandez/N.Kante/W.Zaire-Emery/K.Thuram/M.Olise/K.Mbappe/C.Nkunku","16"},
+            {"(Dakar) E.Mendy/K.Koulibaly/A.Diallo/F.Mendy/Y.Sabaly/I.Gueye/P.Sarr/N.Mendy/S.Mane/H.Diallo/N.Jackson","4"},
+            {"(Oslo) O.Nyland/L.Ostigard/A.Hanche-Olsen/B.Meling/S.Gregersen/M.Odegaard/S.Berge/M.Thorsby/A.Sorloth/E.Haaland/A.Nusa","4"},
+            {"(Bagdad) J.Hassan/A.Ibrahim/A.Adnan/R.Sulaka/S.Natiq/A.Attwan/B.Resan/H.Tariq/A.Hussein/M.Ali/A.Hussain","4"},
+
             // J: Argentina, Argelia, Austria, Jordania
-            {"Buenos Aires"," Martínez; Molina, Romero, Otamendi, Lisandro Martínez; De Paul, Mac Allister, Enzo Fernández; Messi, Álvarez y Lautaro Martínez.","18"},
-            {"Argel","R.Mahrez/Y.Benrahma/I.Bennacer","4"},
-            {"Viena","D.Alaba/M.Sabitzer/C.Baumgartner","8"},
-            {"Aman","Y.Al-Bakkar/M.Al-Dardour/H.Bani","2"},
+            {"(Buenos Aires) G.Rulli/N.Otamendi/N.Tagliafico/M.Senesi/V.Barco/R.De Paul/A.Mac Allister/L.Paredes/N.Paz/L.Messi/L.Martinez","18"},
+            {"(Argel) F.Chaal/Y.Atal/H.Baouche/A.Bedrane/R.Halaimia/S.Bendebka/V.Lekhal/Y.Brahimi/A.Ounas/I.Slimani/Y.Benzia","4"},
+            {"(Viena) A.Schlager/D.Alaba/K.Danso/M.Friedl/S.Posch/X.Schlager/M.Sabitzer/C.Baumgartner/K.Laimer/M.Arnautovic/M.Gregoritsch","8"},
+            {"(Amán) Y.Abulaila/B.Barakat/A.Ibrahim/E.Haddad/O.Rashid/Y.Al-Naimat/M.Al-Taamari/A.Nasib/M.Abu Zema/B.Faisal/H.Al-Dardour","2"},
+
             // K: Portugal, Colombia, Uzbekistan, RD Congo
-            {"Lisboa","C.Ronaldo/B.Fernandes/R.Leao","8"},
-            {"Bogota","L.Diaz/J.Cuadrado/R.Falcao","6"},
-            {"Taskent","O.Shomurodov/J.Komilov/A.Tursunov","1"},
-            {"Kinshasa","C.Bolasie/M.Bakambu/B.Mpoku","2"},
+            {"(Lisboa) D.Costa/R.Dias/Pepe/N.Mendes/J.Cancelo/B.Fernandes/Vitinha/J.Palhinha/B.Silva/C.Ronaldo/R.Leao","8"},
+            {"(Bogotá) D.Ospina/D.Sanchez/Y.Mina/D.Munoz/J.Mojica/J.Rodriguez/J.Lerma/R.Rios/J.Arias/L.Diaz/R.Santos Borre","6"},
+            {"(Taskent) U.Yusupov/K.Alijonov/H.Norchaev/U.Rakhmatullayev/J.Sidiqov/J.Masharipov/E.Shomurodov/O.Shukurov/J.Iskanderov/D.Khamdamov/A.Tursunov","1"},
+            {"(Kinshasa) J.Kiassumbua/M.Tisserand/C.Mbemba/Y.Bolasie/N.Kamoa/C.Bakambu/W.Zaha/P.Mpoku/J.Botaka/D.Mbokani/R.Bamenga","2"},
+
             // L: Inglaterra, Croacia, Panama, Ghana
-            {"Londres","J.Bellingham/H.Kane/B.Saka","16"},
-            {"Zagreb","L.Modric/M.Kovacic/A.Kramaric","6"},
-            {"Panama City","R.Torres/A.Murillo/G.Torres","3"},
-            {"Accra","T.Partey/J.Ayew/M.Kudus","4"}
+            {"(Londres) J.Pickford/J.Stones/M.Guehi/R.James/E.Konsa/D.Rice/J.Bellingham/B.Saka/P.Foden/H.Kane/M.Rashford","16"},
+            {"(Zagreb) D.Livakovic/J.Gvardiol/D.Caleta-Car/J.Sutalo/J.Stanisic/L.Modric/M.Pasalic/N.Vlasic/P.Sucic/A.Kramaric/I.Perisic","6"},
+            {"(Ciudad de Panamá) L.Mejia/F.Escobar/E.Davis/A.Andrade/H.Cummings/A.Machado/A.Carrasquilla/A.Godoy/I.Diaz/R.Blackburn/E.Barcenas","3"},
+            {"(Acra) L.Ati-Zigi/A.Seidu/G.Mensah/D.Kohn/J.Adjetey/T.Partey/K.Sulemana/C.Bonsu Baah/A.Semenyo/J.Ayew/M.Kudus","4"},
         };
 
         for (int i = 0; i < 48; i++) {
