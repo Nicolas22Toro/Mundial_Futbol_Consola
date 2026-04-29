@@ -93,20 +93,21 @@ public class Mundial2026 {
         // Info de paises (capital, jugadores destacados, apariciones mundiales)
         String[][] info = {
             // A: Mexico, Corea del Sur, Sudafrica, Rep Checa
-            {"Ciudad de Mexico","H.Lozano/S.Gimenez/A.Guardado","17"},
-            {"Seul","Son Heung-min/Kim Min-jae/Lee Kang-in","11"},
-            {"Pretoria","P.Sekele/S.Mokoena/T.Kutumela","3"},
-            {"Praga","T.Soucek/P.Schick/V.Coufal","9"},
+            {"(Ciudad de México) Ochoa/C.Montes/Gallardo/J.Vasquez/Araujo/E.Alvarez/H.Herrera/Lozano/Orbelín/S.Gimenez/R.Jimenez","17"},
+            {"(Seúl) Jo Hyeon-woo/Kim Min-jae/Kim Young-gwon/Kim Jin-su/Lee Ki-je/Jung Woo-young/Lee Jae-sung/Lee Kang-in/Hwang In-beom/Son Heung-min/Hwang Hee-chan","11"},
+            {"(Pretoria) R.Williams/S.Xulu/R.De Reuck/R.Frosler/T.Mashego/T.Mokoena/E.Ntsiza/P.Tau/E.Mokwana/L.Foster/T.Zwane","3"},
+            {"(Praga) Vaclik/Holes/Zima/Coufal/Boril/Soucek/Provod/Sadilek/Hlozek/P.Schick/Jurasek","9"},
+
             // B: Canada, Suiza, Catar, Bosnia
-            {"Ottawa","A.Davies/J.David/C.Larin","3"},
-            {"Berna","X.Shaqiri/G.Xhaka/Y.Sommer","13"},
-            {"Doha","A.Afif/H.Al-Haydos/B.Al-Rawi","2"},
-            {"Sarajevo","E.Dzeko/M.Pjanic/A.Prevljak","1"},
+            {"(Ottawa) St.Clair/K.Miller/Cornelius/Laryea/Bassong/Eustaquio/I.Kone/Buchanan/Osorio/J.David/C.Larin","3"},
+            {"(Berna) Y.Sommer/Akanji/F.Schar/R.Rodriguez/Elvedi/G.Xhaka/Freuler/Zakaria/Shaqiri/Embolo/Okafor","13"},
+            {"(Doha) M.Barsham/Pedro Miguel/Al-Rawi/T.Salman/A.Hassan/Boudiaf/Al-Ahrak/Ismaeel/Al-Haydos/Almoez Ali/Akram Afif","2"},
+            {"(Sarajevo) I.Sehic/Kolasinac/Bicakcic/Ahmedhodzic/Hajradinovic/Pjanic/S.Lukic/B.Tahirovic/E.Visca/E.Dzeko/A.Hodzic","1"},
             // C: Brasil, Marruecos, Escocia, Haiti
-            {"Brasilia","Vinicius Jr/Rodrygo/Raphinha","22"},
-            {"Rabat","A.Hakimi/H.Ziyech/Y.En-Nesyri","7"},
-            {"Edimburgo","A.Robertson/S.McTominay/J.McGinn","9"},
-            {"Puerto Principe","D.Nazon/O.Boateng/F.Pierrot","2"},
+            {"(Brasilia) Ederson/Marquinhos/E.Militao/G.Magalhaes/Danilo/Casemiro/B.Guimaraes/L.Paqueta/Vinicius Jr/Richarlison/M.Cunha","22"},
+            {"(Rabat) Y.Bounou/A.Hakimi/N.Aguerd/R.Saiss/N.Mazraoui/S.Amrabat/A.Ounahi/H.Ziyech/I.Chair/En-Nesyri/Ezzalzouli","7"},
+            {"(Edimburgo) A.Gunn/A.Robertson/G.Hanley/K.Tierney/A.Ralston/McTominay/J.McGinn/B.Gilmour/R.Christie/C.Adams/L.Shankland","9"},
+            {"(Puerto Príncipe) J.Placide/C.Arcus/K.Thermoncy/H.Delcroix/R.Ade/J.Bellegarde/D.Jean Jacques/L.Pierre/D.Etienne Jr/D.Nazon/F.Pierrot","2"},
             // D: EEUU, Australia, Paraguay, Turquia
             {"Washington D.C.","C.Pulisic/W.McKennie/T.Adams","11"},
             {"Canberra","M.Leckie/A.Hrustic/M.Goodwin","6"},
@@ -128,17 +129,17 @@ public class Mundial2026 {
             {"El Cairo","M.Salah/A.El-Fotouh/T.Hamdi","3"},
             {"Wellington","C.Wood/W.McGarry/N.Eliot","3"},
             // H: Espana, Uruguay, Cabo Verde, Arabia Saudita
-            {"Madrid","P.Gavi/P.Pedri/A.Morata","16"},
+            {"Madrid","Unai Simón; Carvajal, Le Normand, Laporte, Cucurella; Rodri, Fabián Ruiz, Pedri; Lamine Yamal, Nico Williams y Morata","16"},
             {"Montevideo","L.Suarez/F.Valverde/D.Nunez","14"},
             {"Praia","R.Tavares/Z.Varela/J.Semedo","1"},
             {"Riad","S.Al-Dawsari/H.Al-Shahrani/M.Al-Buraikan","7"},
             // I: Francia, Senegal, Noruega, Irak
-            {"Paris","K.Mbappe/A.Griezmann/O.Dembele","16"},
+            {"Paris","Maignan; Koundé, Saliba, Upamecano, Theo Hernández; Tchouaméni, Camavinga, Griezmann; Dembélé, Mbappé y Barcola","16"},
             {"Dakar","S.Mane/E.Mendy/I.Gueye","4"},
             {"Oslo","E.Haaland/M.Odegaard/A.Sorloth","4"},
             {"Bagdad","A.Karrar/A.Jabbar/M.Abboud","4"},
             // J: Argentina, Argelia, Austria, Jordania
-            {"Buenos Aires","L.Messi/L.Martinez/R.De Paul","18"},
+            {"Buenos Aires"," Martínez; Molina, Romero, Otamendi, Lisandro Martínez; De Paul, Mac Allister, Enzo Fernández; Messi, Álvarez y Lautaro Martínez.","18"},
             {"Argel","R.Mahrez/Y.Benrahma/I.Bennacer","4"},
             {"Viena","D.Alaba/M.Sabitzer/C.Baumgartner","8"},
             {"Aman","Y.Al-Bakkar/M.Al-Dardour/H.Bani","2"},
