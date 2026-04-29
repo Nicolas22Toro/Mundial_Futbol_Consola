@@ -347,13 +347,11 @@ public class Mundial2026 {
                     else bandera[i][j] = 'M';
                 }
             }
-        } else if (equipoIdx == 7) { // Bosnia: Azul con triangulo amarillo y estrellas blancas
+        } else if (equipoIdx == 7) { // Bosnia: Azul con triangulo amarillo
             for (int i = 0; i < filas; i++) {
                 for (int j = 0; j < cols; j++) {
                     if (j > i && j < cols - i) bandera[i][j] = 'Y';
                     else bandera[i][j] = 'U';
-                    // Estrellas en la hipotenusa
-                    if (j == i && i < filas-1) bandera[i][j] = 'B';
                 }
             }
         } else if (equipoIdx == 8) { // Brasil: Verde con rombo amarillo y circulo azul
@@ -648,11 +646,33 @@ public class Mundial2026 {
                 for (int j = 0; j < cols; j++) {
                     if (i < filas/3) bandera[i][j] = 'U'; else if (i < 2*filas/3) bandera[i][j] = 'B'; else bandera[i][j] = 'G';
                     if (i == filas/6 && j == cols/6) bandera[i][j] = 'B'; // Luna
+
+                    if (j < cols/3) bandera[i][j] = 'G';
+                    else bandera[i][j] = 'R';
+                }
+            }
+            bandera[filas/2][cols/3] = 'Y';
+        } else if (equipoIdx == 41) { // Colombia: Amarillo-Azul-Rojo horizontal
+            for (int i = 0; i < filas; i++) {
+                for (int j = 0; j < cols; j++) {
+                    if (i < filas/2) bandera[i][j] = 'Y';
+                    else if (i < 3*filas/4) bandera[i][j] = 'U';
+                    else bandera[i][j] = 'R';
+                }
+            }
+        } else if (equipoIdx == 42) { // Uzbekistan: Azul-Blanco-Verde horizontal
+            for (int i = 0; i < filas; i++) {
+                for (int j = 0; j < cols; j++) {
+                    if (i < filas/3) bandera[i][j] = 'U';
+                    else if (i < 2*filas/3) bandera[i][j] = 'B';
+                    else bandera[i][j] = 'G';
+
                 }
             }
         } else if (equipoIdx == 43) { // RD Congo: Azul con diagonal amarilla y estrella roja
             for (int i = 0; i < filas; i++) {
                 for (int j = 0; j < cols; j++) {
+
                     if (Math.abs(j - (cols - 1 - (i * cols / filas))) < 2) bandera[i][j] = 'Y';
                     else bandera[i][j] = 'U';
                 }
